@@ -1,2 +1,3 @@
 # HELLO-WORLD
-JUST A REPOSITORY
+Hey there, It's me Anuvind.
+I am a hungry and aspiring learner.
